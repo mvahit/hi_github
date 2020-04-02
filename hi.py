@@ -1,4 +1,1 @@
-print("naber?")
-
-
-print("hello")
+print("selam naber nasılsın")
